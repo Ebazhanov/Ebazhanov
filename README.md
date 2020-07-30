@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[bit.ly/3043HuX](bit.ly/3043HuX)
 <!--
 **Ebazhanov/Ebazhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
