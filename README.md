@@ -6,3 +6,5 @@
 - ⚡ Fun fact: i can drive my bike without stopping 4 hours
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ebazhanov)
+ 
+![VisitorCount](https://profile-counter.glitch.me/ebazhanov/count.svg)
