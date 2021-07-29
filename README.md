@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 💬 You can send me a message [here](https://bit.ly/3043HuX) or [there](https://discord.gg/QG8FZCdDUK)
+- 💬 You can send me a message [here](https://bit.ly/3043HuX) or [there](https://discord.gg/bCbEYqBPgM)
