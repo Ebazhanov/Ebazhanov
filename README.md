@@ -12,7 +12,7 @@ I'm **Evgeny** — a 🧪 Sr. QA Automation Engineer focused on UI and API testi
   
 - 🐍 [AQA Python](https://github.com/vitaliiyz/aqa_python) — automated tests for Python projects, enhancing coverage & quality
 - 📱 [Appium Mobile testing](https://github.com/LSS35/appium-autotest) — mobile test automation with Appium (iOS, Android)
-💡 Your project could be next!
+- 💡 Your project could be next!
 
 💬 Always happy to connect and explore cool ideas.  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ebazhanov) or drop me a message here on GitHub!
