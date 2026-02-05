@@ -15,5 +15,7 @@ I'm **Evgeny** — a 🧪 Sr. QA Automation Engineer focused on UI and API testi
 * 🧩 [Kotlin->API tests](https://github.com/LSS35/kotlin-autotest/issues/1) - in Progress
 * 💡 Your project could be next!
 
-💬 Always happy to connect and explore cool ideas.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ebazhanov) or or **[book a intro call via Calendly](https://calendly.com/evgenybazhanov/30min)**!
+### 📫 Let's connect!
+* 💼 [LinkedIn](https://www.linkedin.com/in/ebazhanov)
+* 📅 **[Schedule a 30-min call (Calendly)](https://calendly.com/evgenybazhanov/30min)**
+* 📧 Drop me a message in GitHub Issues or LinkedIn!
