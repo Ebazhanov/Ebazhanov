@@ -16,4 +16,4 @@ I'm **Evgeny** — a 🧪 Sr. QA Automation Engineer focused on UI and API testi
 * 💡 Your project could be next!
 
 💬 Always happy to connect and explore cool ideas.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ebazhanov) or drop me a message here on GitHub!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ebazhanov) or or **[book a intro call via Calendly](https://calendly.com/evgenybazhanov/30min)**!
