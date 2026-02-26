@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm **Evgeny** — a 🧪 Sr. QA Automation Engineer focused on UI and API testing (🎭 Playwright, 🌿 Cypress: TypeScript), with an additional interest in 🛠️ DevOps topics (☁️ GCP, 🔁 CI/CD, 🚀 Cloud Run).
+I'm **Evgeny** — a 🧪 Senior (Lead) QA Automation Engineer focused on UI and API testing (🎭 Playwright, 🌿 Cypress: TypeScript), with an additional interest in 🛠️ DevOps topics (☁️ GCP, 🔁 CI/CD, 🚀 Cloud Run).
 
 📌 **I'm open to collaboration**:
 * 🤝 Happy to help with testing or DevOps-related parts of your project
