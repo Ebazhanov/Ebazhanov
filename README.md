@@ -1,6 +1,10 @@
 ### 👋 Hi there!
 
-I'm **Evgenii Bazhanov** — a 🧪 Senior (Lead) QA Automation Engineer / SDET and GitHub Star. While my foundation is in robust UI and API test automation (🎭 Playwright, 🌿 Cypress: TypeScript), I am now actively exploring and building at the intersection of QA and Artificial Intelligence, with a strong interest in LLM integration, automated test data generation, and 🛠️ DevOps (☁️ GCP, 🔁 CI/CD, 🚀 Cloud Run).
+I'm **Evgenii Bazhanov** — 🧪 Senior (Lead) QA Automation Engineer / SDET & GitHub Star.
+
+* **Leadership & Core Stack**: Designing scalable UI & API frameworks with TypeScript & Python (Playwright, Cypress)
+* **AI & QA Innovations**: Integrating LLMs into QA workflows, AI testing, and smart data generation
+* **DevOps & Infrastructure**: CI/CD optimization, GCP, and Cloud Run
 
 📌 **I'm open to collaboration**:
 * 🤖 AI & LLM Testing: Building, validating, or integrating AI-driven testing methods and LLM metrics into workflows.
@@ -8,12 +12,15 @@ I'm **Evgenii Bazhanov** — a 🧪 Senior (Lead) QA Automation Engineer / SDET 
 * 🎯 Interview Prep: Preparing for an automation or AI-testing role? Let's drill through tasks and mock questions together.
 * 🧠 Learning & Hacking: Joining forces for hackathons, short-term coding challenges, or diving into new tech stacks.
 
-✨ Current collaborations:
-* 🐍 [AQA Python](https://github.com/vitaliiyz/aqa_python) — automated tests for Python projects, enhancing coverage & quality
-* 📱 [Appium Mobile testing](https://github.com/LSS35/appium-autotest) — mobile test automation with Appium (iOS, Android)
-* 🤖 [QA Tasks & AI](https://github.com/QATasksAI) — quality assurance, testing automation, and AI-powered testing tools (alternatively, you can create your own repo here)
-* 🧩 [Kotlin->API tests](https://github.com/LSS35/kotlin-autotest/issues/1) - in Progress
-* 💡 Your next AI or QA project could be here!
+✨ **Community & QA Club Collaborations**:
+> 🚀 **QA Club** ([@QATasksAI](https://github.com/QATasksAI)) — Open-source community for QA automation, AI testing tools, and hands-on practice.
+
+* 🤖 [QA Tasks & AI Hub](https://github.com/QATasksAI) — Practice challenges, automation patterns, and AI testing experiments.
+* 🐍 [Python Test Automation](https://github.com/vitaliiyz/aqa_python) — Scalable E2E & API testing frameworks in Python.
+* ⚡ [Python API Testing](https://github.com/vitaliiyz/aqa-api-tests) — *Just Started:* Lightweight REST API testing patterns.
+* 📱 [Mobile Testing (Appium)](https://github.com/LSS35/appium-autotest) — Cross-platform iOS & Android automation with Appium.
+* 🧩 [Kotlin API Testing](https://github.com/LSS35/kotlin-autotest/issues/1) — *In Progress:* REST API testing & architecture in Kotlin.
+* 💡 **Have an idea or want to launch a project?** Open an issue in [@QATasksAI](https://github.com/QATasksAI) or drop me a line!
 
 ### 📫 Let's connect!
 * 💼 [LinkedIn](https://www.linkedin.com/in/ebazhanov)
