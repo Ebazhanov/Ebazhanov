@@ -16,6 +16,7 @@ I'm **Evgenii Bazhanov** — 🧪 Senior (Lead) QA Automation Engineer / SDET & 
 > 🚀 **QA Club** ([@QATasksAI](https://github.com/QATasksAI)) — Open-source community for QA automation, AI testing tools, and hands-on practice.
 
 * 🤖 [QA Tasks & AI Hub](https://github.com/QATasksAI) — Practice challenges, automation patterns, and AI testing experiments.
+* 🎭 [Playwright E2E & API Suite](https://github.com/Eugenekms/playwright_shop) — Modern TypeScript Playwright framework with POM, storage state, and CI pipeline setup.
 * 🐍 [Python Test Automation](https://github.com/vitaliiyz/aqa_python) — Scalable E2E & API testing frameworks in Python.
 * ⚡ [Python API Testing](https://github.com/vitaliiyz/aqa-api-tests) — *Just Started:* Lightweight REST API testing patterns.
 * 📱 [Mobile Testing (Appium)](https://github.com/LSS35/appium-autotest) — Cross-platform iOS & Android automation with Appium.
