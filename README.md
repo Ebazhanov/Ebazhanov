@@ -1,16 +1,14 @@
-### 👋 Hi there!
+### 👋 Hi, I'm Evgenii
 
-I'm **Evgenii Bazhanov** — 🧪 Senior (Lead) QA Automation Engineer / SDET & GitHub Star.
+Senior QA Automation Engineer / SDET. I build reliable test automation, integrate AI into QA workflows, and run open-source testing projects.
 
-* **Leadership & Core Stack**: Designing scalable UI & API frameworks with TypeScript & Python (Playwright, Cypress)
-* **AI & QA Innovations**: Integrating LLMs into QA workflows, AI testing, and smart data generation
-* **DevOps & Infrastructure**: CI/CD optimization, GCP, and Cloud Run
+**What I do:**
+* **Core Automation:** Scalable UI & API test frameworks using TypeScript and Python (Playwright, Cypress).
+* **AI in QA:** Integrating LLMs into test workflows, AI model evaluation, and synthetic test data generation.
+* **DevOps & Cloud:** CI/CD pipeline setup and containerized test execution on GCP and Cloud Run.
 
-📌 **I'm open to collaboration**:
-* 🤖 AI & LLM Testing: Building, validating, or integrating AI-driven testing methods and LLM metrics into workflows.
-* 🤝 QA & DevOps: Setting up scalable test automation frameworks or optimizing your CI/CD pipelines.
-* 🎯 Interview Prep: Preparing for an automation or AI-testing role? Let's drill through tasks and mock questions together.
-* 🧠 Learning & Hacking: Joining forces for hackathons, short-term coding challenges, or diving into new tech stacks.
+**Open to Collaboration:**
+I'm always down to partner on AI/LLM testing experiments, framework architecture, CI/CD tuning, technical interview practice, or hackathons.
 
 ✨ **Community & QA Club Collaborations**:
 > 🚀 **QA Club** ([@QATasksAI](https://github.com/QATasksAI)) — Open-source community for QA automation, AI testing tools, and hands-on practice.
