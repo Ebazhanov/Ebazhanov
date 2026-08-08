@@ -11,7 +11,7 @@ Senior QA Automation Engineer / SDET. I build reliable test automation, integrat
 I'm always down to partner on AI/LLM testing experiments, framework architecture, CI/CD tuning, technical interview practice, or hackathons.
 
 ✨ **Community & QA Club Collaborations**:
-* **QA Club** ([@QATasksAI](https://github.com/QATasksAI)) — Open-source community for QA automation, AI testing tools, and hands-on practice.
+> **QA Club** ([@QATasksAI](https://github.com/QATasksAI)) — Open-source community for QA automation, AI testing tools, and hands-on practice.
 
 * [QA Tasks & AI Hub](https://github.com/QATasksAI) — Practice challenges, automation patterns, and AI testing experiments.
 * [Playwright E2E & API Suite](https://github.com/Eugenekms/playwright_shop) — Modern TypeScript Playwright framework with POM, storage state, and CI pipeline setup.
