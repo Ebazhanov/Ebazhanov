@@ -7,6 +7,10 @@ Senior QA Automation Engineer / SDET. I build reliable test automation, integrat
 * **AI in QA:** Integrating LLMs into test workflows, AI model evaluation, and synthetic test data generation.
 * **DevOps & Cloud:** CI/CD pipeline setup and containerized test execution on GCP and Cloud Run.
 
+### 📺 Media & YouTube Channels
+* **[Code Club | QA Automation](https://www.youtube.com/@code-club-sdet)** — Test automation engineering and AI-driven QA practices.
+* **[German Yes](https://www.youtube.com/@germanyes3674)** — Educational content for German language learners (A1–B2 level).
+
 **Open to Collaboration:**
 I'm always down to partner on AI/LLM testing experiments, framework architecture, CI/CD tuning, technical interview practice, or hackathons.
 
@@ -23,4 +27,5 @@ I'm always down to partner on AI/LLM testing experiments, framework architecture
 
 ### 📫 Let's connect!
 * [LinkedIn](https://www.linkedin.com/in/ebazhanov)
+* [YouTube — Code Club](https://www.youtube.com/@code-club-sdet) | [German Yes](https://www.youtube.com/@germanyes3674)
 * **[Schedule a 30-min call (Calendly)](https://calendly.com/evgenybazhanov/30min)**
