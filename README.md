@@ -8,7 +8,7 @@ Senior QA Automation Engineer / SDET. I build reliable test automation, integrat
 * **DevOps & Cloud:** CI/CD pipeline setup and containerized test execution on GCP and Cloud Run.
 
 **Open to Collaboration:**
-I'm always down to partner on AI/LLM testing experiments, framework architecture, CI/CD tuning, technical interview practice, or hackathons.
+I am always open to collaborating on AI/LLM testing experiments, framework architecture, CI/CD tuning, technical interview practice, or hackathons.
 
 ✨ **Community & QA Club Collaborations**:
 > **QA Club** ([@QATasksAI](https://github.com/QATasksAI)) — Open-source community for QA automation, AI testing tools, and hands-on practice.
